@@ -1,0 +1,9 @@
+﻿  pwGen.cpp
+D:\The Archives_null\INA A1 Cpp Projects\highStrPWGenerator\highStrPWGenerator\pwGen.cpp(14,25): warning C4101: 'userSpecSymb': unreferenced local variable
+D:\The Archives_null\INA A1 Cpp Projects\highStrPWGenerator\highStrPWGenerator\pwGen.cpp(14,39): warning C4101: 'userNumb': unreferenced local variable
+D:\The Archives_null\INA A1 Cpp Projects\highStrPWGenerator\highStrPWGenerator\pwGen.cpp(14,49): warning C4101: 'userUpCase': unreferenced local variable
+D:\The Archives_null\INA A1 Cpp Projects\highStrPWGenerator\highStrPWGenerator\pwGen.cpp(14,61): warning C4101: 'userLowCase': unreferenced local variable
+D:\The Archives_null\INA A1 Cpp Projects\highStrPWGenerator\highStrPWGenerator\pwGen.cpp(110,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+  Generating Code...
+  highStrPWGenerator.vcxproj -> D:\The Archives_null\INA A1 Cpp Projects\highStrPWGenerator\Debug\highStrPWGenerator.exe
